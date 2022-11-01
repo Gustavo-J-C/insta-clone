@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { StyleSheet, Text, View, Dimensions, Alert } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
 
 export default function Coments(props) {
     const {comments} = props
